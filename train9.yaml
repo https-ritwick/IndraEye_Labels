@@ -3,4 +3,4 @@ val: /kaggle/input/indraeye-detailed-labels/val9
 
 nc: 1
 
-names: [9]
+names: ["rickshaw"]

@@ -3,4 +3,4 @@ val: /kaggle/input/indraeye-detailed-labels/val6
 
 nc: 1
 
-names: [6]
+names: ["motorcycle"]

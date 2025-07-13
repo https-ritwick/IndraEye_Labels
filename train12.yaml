@@ -3,4 +3,4 @@ val: /kaggle/input/indraeye-detailed-labels/val12
 
 nc: 1
 
-names: [12]
+names: ["van"]

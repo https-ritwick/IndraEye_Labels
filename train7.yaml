@@ -3,4 +3,4 @@ val: /kaggle/input/indraeye-detailed-labels/val7
 
 nc: 1
 
-names: [7]
+names: ["person"]
