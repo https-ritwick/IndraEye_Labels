@@ -1,0 +1,6 @@
+train: /kaggle/input/indraeye-detailed-labels/train9
+val: /kaggle/input/indraeye-detailed-labels/val9
+
+nc: 1
+
+names: [9]
